@@ -1,0 +1,606 @@
+"..\std_types.h", line 17: warning #1376-D: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"../DIO.c", line 16: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 16: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 16: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 16: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 17: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 17: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 17: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 17: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 17: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 22: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 24: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 24: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 24: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 25: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 25: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 27: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 29: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 29: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 29: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 31: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 31: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 31: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 32: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 32: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 36: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 38: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 38: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 38: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 39: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 39: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 41: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 43: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 43: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 43: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 45: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 45: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 45: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 46: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 46: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 50: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 51: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 51: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 51: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 52: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 52: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 54: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 56: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 56: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 56: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 58: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 58: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 58: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 59: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 59: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 63: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 64: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 64: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 64: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 65: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 65: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 67: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 69: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 69: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 69: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 71: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 71: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 71: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 72: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 72: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 76: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 77: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 77: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 77: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 78: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 78: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 80: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 82: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 82: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 82: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 84: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 84: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 84: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 85: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 85: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 89: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 91: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 91: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 91: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 92: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 92: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 94: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 96: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 96: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 96: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 98: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 98: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 98: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+"../DIO.c", line 99: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 99: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 114: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 115: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 115: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 115: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 115: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 117: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 118: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 118: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 118: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 118: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 120: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 121: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 121: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 121: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 121: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 123: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 124: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 124: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 124: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 124: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 126: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 127: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 127: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 127: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 127: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 129: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 130: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 130: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 130: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 130: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 141: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 142: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 142: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 142: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 142: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 142: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 144: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 145: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 145: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 145: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 145: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 145: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 147: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 148: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 148: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 148: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 148: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 148: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 150: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 151: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 151: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 151: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 151: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 151: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 153: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 154: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 154: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 154: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 154: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 154: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 156: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 157: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 157: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 157: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 157: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 157: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 173: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("value")
+"../DIO.c", line 177: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 178: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 178: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 178: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 178: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 178: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 180: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 181: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 181: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 181: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 181: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 181: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 183: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 184: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 184: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 184: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 184: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 184: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 186: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 187: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 187: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 187: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 187: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 187: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 189: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 190: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 190: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 190: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 190: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 190: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 192: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 193: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 193: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 193: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 193: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 193: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 208: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 209: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 209: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 209: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 209: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 211: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 212: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 212: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 212: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 212: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 214: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 215: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 215: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 215: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 215: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 217: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 218: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 218: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 218: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 218: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 220: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 221: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 221: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 221: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 221: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 223: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 224: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 224: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 224: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 224: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 235: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 236: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 236: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 236: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 236: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 236: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 238: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 239: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 239: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 239: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 239: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 239: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 241: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 242: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 242: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 242: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 242: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 242: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 244: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 245: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 245: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 245: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 245: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 245: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 247: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 248: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 248: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 248: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 248: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 248: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 250: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 251: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 251: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 251: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 251: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 251: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 269: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 273: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 273: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 273: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 273: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 276: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 276: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 276: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 276: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 280: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 280: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 280: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 280: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 280: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 283: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 283: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 283: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 283: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 287: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 287: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 287: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 287: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 287: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 297: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 297: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 297: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 297: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 297: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 300: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 300: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 300: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 300: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 304: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 304: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 304: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 304: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 304: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 307: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 307: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 307: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 307: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 311: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 311: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 311: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 311: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 311: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 323: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 323: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 323: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 323: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 324: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 324: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../DIO.c", line 324: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 324: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 324: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 324: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 328: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 332: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 332: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 332: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 332: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 335: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 335: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 335: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 335: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 339: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 339: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 339: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 339: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 339: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 342: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 342: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 342: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 342: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 346: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 346: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 346: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 346: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 346: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 356: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 356: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 356: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 356: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 356: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 359: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 359: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 359: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 359: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 363: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 363: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 363: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 363: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 363: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 366: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 366: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 366: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 366: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 370: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 370: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 370: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 370: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 370: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 382: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 382: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 382: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 382: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 383: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 383: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../DIO.c", line 383: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 383: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 383: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 383: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 386: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 390: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 390: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 390: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 390: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 393: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 393: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 393: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 393: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 397: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 397: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 397: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 397: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 397: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 400: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 400: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 400: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 400: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 404: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 404: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 404: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 404: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 404: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 414: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 414: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 414: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 414: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 414: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 417: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 417: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 417: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 417: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 421: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 421: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 421: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 421: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 421: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 424: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 424: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 424: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 424: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 428: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 428: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 428: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 428: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 428: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 440: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 440: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 440: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 440: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 441: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 441: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../DIO.c", line 441: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 441: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 441: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 441: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 445: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 449: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 449: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 449: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 449: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 452: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 452: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 452: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 452: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 456: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 456: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 456: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 456: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 456: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 459: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 459: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 459: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 459: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 463: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 463: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 463: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 463: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 463: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 473: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 473: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 473: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 473: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 473: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 476: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 476: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 476: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 476: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 480: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 480: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 480: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 480: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 480: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 483: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 483: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 483: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 483: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 487: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 487: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 487: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 487: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 487: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 499: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 499: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 499: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 499: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 500: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 500: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../DIO.c", line 500: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 500: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 500: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 500: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 504: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 508: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 508: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 508: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 508: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 511: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 511: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 511: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 511: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 515: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 515: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 515: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 515: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 515: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 518: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 518: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 518: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 518: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 522: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 522: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 522: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 522: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 522: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 532: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 532: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 532: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 532: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 532: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 535: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 535: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 535: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 535: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 539: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 539: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 539: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 539: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 539: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 542: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 542: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 542: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 542: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 546: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 546: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 546: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 546: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 546: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 558: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 558: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 558: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 558: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 559: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 559: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../DIO.c", line 559: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 559: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 559: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 559: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 563: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 567: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 567: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 567: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 567: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 570: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 570: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 570: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 570: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 574: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 574: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 574: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 574: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 574: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 577: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 577: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 577: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 577: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 581: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 581: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 581: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 581: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 581: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 591: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 591: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 591: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 591: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 591: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 594: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 594: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 594: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 594: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 598: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 598: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 598: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 598: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 598: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 601: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 601: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 601: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 601: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 605: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 605: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 605: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 605: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 605: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../DIO.c", line 617: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 617: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 617: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 617: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../DIO.c", line 618: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../DIO.c", line 618: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../DIO.c", line 618: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../DIO.c", line 618: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 618: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../DIO.c", line 618: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../DIO.c", line 266: warning #1471-D: (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
